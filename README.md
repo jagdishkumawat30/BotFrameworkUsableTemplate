@@ -1,4 +1,4 @@
-# APITesterBot
+# BotFrameworkUsableTemplate
 
 Bot Framework v4 core bot sample.
 
@@ -43,7 +43,7 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
 
 ## To try this sample
 
-- In a terminal, navigate to `APITesterBot`
+- In a terminal, navigate to `BotFrameworkUsableTemplate`
 
     ```bash
     # change into project folder
@@ -63,8 +63,8 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
 
   - Launch Visual Studio
   - File -> Open -> Project/Solution
-  - Navigate to `APITesterBot` folder
-  - Select `APITesterBot.csproj` file
+  - Navigate to `BotFrameworkUsableTemplate` folder
+  - Select `BotFrameworkUsableTemplate.csproj` file
   - Press `F5` to run the project
 
 ## Testing the bot using Bot Framework Emulator
