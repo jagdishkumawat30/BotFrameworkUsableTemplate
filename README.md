@@ -47,7 +47,7 @@ Once you created the LUIS model, update `appsettings.json` with your `LuisAppId`
 
     ```bash
     # change into project folder
-    cd APITesterBot
+    cd BotFrameworkUsableTemplate
     ```
 
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
